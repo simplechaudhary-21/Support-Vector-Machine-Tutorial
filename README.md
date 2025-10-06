@@ -50,7 +50,7 @@ The models perform similarly well on the Iris dataset due to its simplicity.
    ```
 2. Open the Jupyter notebook:
    ```bash
-   jupyter notebook 08_Support_Vector_Machine.ipynb
+   jupyter notebook Support_Vector_Machine.ipynb
    ```
 3. Run all cells to reproduce the tutorial and results.
 
