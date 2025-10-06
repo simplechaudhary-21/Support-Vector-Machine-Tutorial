@@ -37,9 +37,6 @@ pip install pandas scikit-learn matplotlib seaborn
    - Train SVM with Polynomial kernel.
    - Train SVM with Linear kernel.
 
-5. **Exercise**:
-   - An exercise is provided to train SVM on the digits dataset, experiment with kernels, regularization (C), and gamma parameters to achieve the highest accuracy using 80% training data.
-
 ## Results
 - SVM with RBF kernel: Test accuracy ~0.9667
 - SVM with Polynomial kernel: Test accuracy ~0.9667
