@@ -10,7 +10,7 @@ The Iris dataset is loaded from `sklearn.datasets.load_iris()`. It contains:
 - 3 target classes: setosa (0), versicolor (1), virginica (2)
 
 ## Project Structure
-- **08_Support Vector Machine.ipynb**: Jupyter notebook containing the tutorial code for data loading, exploration, model training, and evaluation.
+- **Support Vector Machine.ipynb**: Jupyter notebook containing the tutorial code for data loading, exploration, model training, and evaluation.
 
 ## Prerequisites
 To run the notebook, install the required Python libraries:
